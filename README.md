@@ -18,8 +18,8 @@ A fully functional **Snake Game** built with Python’s turtle module using **Ob
 
 ## 📸 Preview
 
-![Snake Game Preview](./assets/snake-game-preview.png)
-<!-- Replace with actual screenshot -->
+![image](https://github.com/user-attachments/assets/e0f923ac-6c88-4b1c-b3d6-bcb565fb6266)
+
 
 ---
 
